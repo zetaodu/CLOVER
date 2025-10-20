@@ -1,0 +1,11 @@
+# 忽略整个 clip-vit-large-patch14文件夹
+clip-vit-large-patch14/
+
+# 如果您的视频文件是特定格式，例如 .mp4, .mov, .avi 等，
+# 并且您想在整个仓库中都忽略它们，可以添加文件类型规则：
+# *.mp4
+# *.mov
+# *.avi
+
+# 如果您的视频文件在您创建的那个文件夹（假设是 video_files）里：
+# video_files/
